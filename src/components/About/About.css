@@ -1,0 +1,24 @@
+.about-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.about-me{
+    width: 400px;
+    padding: 40px 20px 10px 30px;
+    border-radius: 19px;
+    border-radius: 10px;
+background: #ADE8F4;
+box-shadow:  5px 5px 10px #93c5cf,
+             -5px -5px 10px #c7ffff;
+    margin-top: 100px;
+}
+.about-me h3{
+    font-size: 25px;
+    color: blue;
+    text-transform: uppercase;
+}
+.about-me span{
+    color:navy;
+}
